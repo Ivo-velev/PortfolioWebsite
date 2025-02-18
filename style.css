@@ -213,8 +213,6 @@ section{
 
 .grid-card:hover{
     transform: scale(1.02);
-    background-color: black;
-    color: white;
 }
 
 .grid-card i{
@@ -261,8 +259,6 @@ section{
 }
 
 .project-card:hover{
-    background-color: black;
-    color: white;
     transform: translateY(-10px)scale(1.02);
 }
 

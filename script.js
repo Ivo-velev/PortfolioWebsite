@@ -21,12 +21,3 @@ button3.onclick = () => {
 button4.onclick = () => {
     window.location.href = "https://github.com/Ivo-velev"
 }
-function scrollToContact() {
-    const contactSection = document.getElementById('contact');
-
-    if (contactSection) { 
-      contactSection.scrollIntoView({
-        behavior: 'smooth' 
-      });
-    }
-  }

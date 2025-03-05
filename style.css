@@ -181,6 +181,10 @@ section{
     margin-bottom: 3rem;
 }
 
+.experience h2{
+    padding: 10px;
+}
+
 .experience-info{
     display: flex;
     align-items: center;

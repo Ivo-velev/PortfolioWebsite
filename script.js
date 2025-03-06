@@ -9,15 +9,7 @@ menuIcon.onclick = () => {
     navLinks.classList.toggle('active');
 }
 
-button1.onclick = () => {
-    window.location.href = "https://github.com/Ivo-velev/Livechat"
-}
-button2.onclick = () => {
-    window.location.href = "https://github.com/Ivo-velev/Email"
-}
-button3.onclick = () => {
-    window.location.href = "https://github.com/Ivo-velev/Wiki"
-}
-button4.onclick = () => {
-    window.location.href = "https://github.com/Ivo-velev"
-}
+button1.onclick = () => window.location.href = "https://github.com/Ivo-velev/Livechat";
+button2.onclick = () => window.location.href = "https://github.com/Ivo-velev/Email";
+button3.onclick = () => window.location.href = "https://github.com/Ivo-velev/Wiki";
+button4.onclick = () => window.location.href = "https://github.com/Ivo-velev";
